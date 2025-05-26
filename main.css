@@ -125,3 +125,29 @@ img {
     color: white;
     margin-top: 50px;
 }
+.tableau-competences {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 30px;
+    border-radius: 10px;
+    margin: 40px auto;
+    max-width: 800px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    text-align: center;
+}
+
+.btn-competences {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #ffd700;
+    color: #000;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.btn-competences:hover {
+    background-color: #e6c200;
+}
+
